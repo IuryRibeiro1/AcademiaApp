@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SyuFitAcademy</string>
+    <string name="textview">TextView</string>
+    <string name="textviewdois">TextView</string>
+    <string name="insira_seu_e_mail">Insira seu e-mail</string>
+    <string name="insira_sua_senha">Insira sua senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastre_se_aqui">Cadastre-se aqui</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
+    <string name="insira_sua_altura">Insira sua altura</string>
+    <string name="calcular">Calcular</string>
+    <string name="insira_seu_peso">Insira seu peso</string>
+    <string name="senha">Senha</string>
+    <string name="e_mail">E-mail</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="syufitness">SyuFitness</string>
+    <string name="academia">Academia</string>
+    <string name="sair">Sair</string>
+    <string name="textviewtreino">TextView</string>
+    <string name="textviewdia">TextView</string>
+</resources>

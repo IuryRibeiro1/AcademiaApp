@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/drawable/constraintbackground.xml" value="0.1735" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/drawable/containerbackground.xml" value="0.1735" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/activity_noticia_um.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/activity_tela_agenda_treino.xml" value="0.27898550724637683" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/activity_tela_cadastro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/activity_tela_calculadora.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/activity_tela_login.xml" value="0.33" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/activity_tela_splash.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/activity_tela_treino.xml" value="0.33" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/activity_tela_usuario.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/interfacetreino.xml" value="0.1757852077001013" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/noticias.xml" value="0.25" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/treinoagenda.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/treinonoticia.xml" value="0.365625" />
+        <entry key="..\:/Users/Iury/AndroidStudioProjects/SyuFitAcademy/app/src/main/res/layout/treinosemanal.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

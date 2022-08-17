@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156345637470",
+    "project_id": "syufitnessacademia",
+    "storage_bucket": "syufitnessacademia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156345637470:android:a45862a9184d3a9c2072cf",
+        "android_client_info": {
+          "package_name": "com.example.syufitacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156345637470-uj0ualqnvade7rfv2kbn9l0ngii41do7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeIPQ6XZSr-3gmid4hPdNkGbfjEd9p1EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156345637470-uj0ualqnvade7rfv2kbn9l0ngii41do7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
